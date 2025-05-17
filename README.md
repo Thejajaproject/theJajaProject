@@ -1,6 +1,6 @@
 # 👑 JAJA:Crown and Chains
 
-*Jaja: Chains and Crowns* is a fast-paced, Naruto-style PvP fighting game developed in **Unreal Engine 5.5**. This project brings anime-inspired arena combat to life with cinematic camera systems, high-energy combos, and local multiplayer action.
+*Jaja: crown and chains* is a fast-paced, Naruto-style PvP fighting game developed in **Unreal Engine 5.5**. This project brings anime-inspired arena combat to life with cinematic camera systems, high-energy combos, and local multiplayer action.
 
 > ⚔️ Built for fans of anime fighters like Naruto Storm, Dragon Ball Budokai, and Jump Force.
 
